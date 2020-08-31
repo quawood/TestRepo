@@ -1,5 +1,5 @@
 include <stdio.h>
 
 int main(int argc, char **argv) {
-    printf("Goodbye, Cruel world!\n");
+    printf("Goodbye, not-so Cruel world!\n");
 }
